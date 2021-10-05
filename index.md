@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Algorithm Blog
-subtitle: Blog Report, Lee Seungkyu
+title: Welcome to my homepage
+subtitle: Lee Seungkyu
 cover-img: /assets/img/com.jpg
 ---
 
 <br/>
 
 ## About me
-hello
+hello. Welcome to my homepage
 
