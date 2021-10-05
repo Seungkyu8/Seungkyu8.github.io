@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Algorithm Blog
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+subtitle: Blog Report, Lee Seungkyu
 cover-img: /assets/img/computer.jpg
 ---
 
