@@ -44,8 +44,7 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 [동영상 가이드: 약 10분](https://www.youtube.com/watch?v=92WHN-pAFCs)
 
-<iframe width="770" height="432" src="https://www.youtube.com/watch?v=92WHN-pAFCs" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/92WHN-pAFCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ### 간단 GIF 가이드
