@@ -3,5 +3,5 @@ layout: page
 title: My Career
 ---
 
-## preparing
+# Coming soon.
 
