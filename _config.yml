@@ -26,7 +26,7 @@ round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
+#title-img: "/assets/img/com.jpg"
 
 
 # --- Footer options --- #
@@ -35,7 +35,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
+  email: "lskyu8@naver.com"
   facebook: facebook.com/dltmdrbek
   github: Seungkyu8
   linkedin: Seungkyu8
